@@ -1,5 +1,3 @@
-![MasterHead](https://deneb.philharmoniedeparis.fr/uploads/images/cache/event_large/rc/0UNAWmhK/uploads/images/607856c475020_Rio%20Jau%2C%20Etat%20d%27Amazonas%2C%20Bresil%2C%202019%20%C2%A9%20Sebastiao%20Salgado.jpg)
-
 Hi there 👋
 My name is Karina. I'm a Geographer, Demographer, and Social Scientist.
 - 🔭 I’m currently working on **wildfire management, agricultural expansion, deforestation and socio-demographic impacts in Brazilian biomes**.
